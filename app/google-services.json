@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491191527104",
+    "firebase_url": "https://loginauthenticator-ef7cb.firebaseio.com",
+    "project_id": "loginauthenticator-ef7cb",
+    "storage_bucket": "loginauthenticator-ef7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491191527104:android:100d48369bd3143a",
+        "android_client_info": {
+          "package_name": "com.example.omarsoria.loginauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491191527104-8prdr1pofh057hb3ntlrfh4fndtkjnku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omarsoria.loginauthenticator",
+            "certificate_hash": "be2c8386c8d8a725a0087ae51f11596ef106e2d7"
+          }
+        },
+        {
+          "client_id": "491191527104-bp8h216c04cqo5tfeu694lknm0gofd30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkeNBh26aHafQl1pN90XYTjPGXn3LlrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491191527104-bp8h216c04cqo5tfeu694lknm0gofd30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
